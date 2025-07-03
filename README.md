@@ -6,7 +6,7 @@ A **local realtime collaboration system** built to let multiple users collaborat
 
 ## ✨ Features
 
-- Realtime text editing / drawing / chat *(update based on what your project includes)*
+- Realtime code editing / drawing / chat
 - Local network support
 - Lightweight and easy to run
 
@@ -14,14 +14,17 @@ A **local realtime collaboration system** built to let multiple users collaborat
 
 ## 🖼️ Screenshots
 
-> Add some images to showcase your project!  
-> Place them in a folder like `images/` in your repo or use direct URLs.
+### Main Collaboration Panel
+![Main Screen](images/MainPanel.png)
 
-### Example 1: Main Collaboration Screen
-![Main Screen](images/main-screen.png)
+### CodeEditor Panel
+![CodeEditor Panel](images/CodeEditor.png)
 
-### Example 2: Chat or Drawing Panel
-![Drawing Panel](images/drawing-panel.png)
+### Drawing Panel
+![Drawing Panel](images/DrawingPanel.png)
+
+### Chat Panel
+![Chat Panel](images/ChatPanel.png)
 
 ---
 
@@ -30,5 +33,5 @@ A **local realtime collaboration system** built to let multiple users collaborat
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simple-realtime-collaboration.git
+git clone https://github.com/nabin2005/simple-realtime-collaboration.git
 cd simple-realtime-collaboration
